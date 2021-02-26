@@ -8,7 +8,7 @@ arr.forEach(test => {
 
 const arr1 = new Array(1, 15, 150, 1500, "Jan", 5525, "Henryk")
 const BiggerThanOne =
-    arr1.every(item => item > 100)
+    arr1.every(item => item > 1)
 console.log(BiggerThanOne)
     // Zad 3 
 
